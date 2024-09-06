@@ -13,3 +13,7 @@ cd SocialPhish
 chmod +x socialphish.sh
 ./socialphish.sh
 ```
+git clone https://github.com/pvanfas/socialphish.git
+cd SocialPhish
+chmod +x socialphish.sh
+./socialphish.sh  +221774528831 photo videos whatssap
